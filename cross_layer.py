@@ -1,6 +1,6 @@
 import numpy as np
 import os
-import MDAnalysis as mda # type: ignore
+import MDAnalysis as mda
 import pandas as pd
 
 def get_zpositions(u):
